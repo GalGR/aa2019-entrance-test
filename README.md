@@ -9,6 +9,8 @@ Has the function that needed implementing, and also has some helper code for rea
 Interface to test `OrdersAnalyzer`. It handles the read/write to the JSON files.
 ### input.json
 An input file example.
+### build.gradle
+An example `build.gradle` file with the necessary dependencies and repositories.
 
 ## Dependencies
 Inorder to read from a JSON file, this code uses a library called [Klaxon](https://github.com/cbeust/klaxon).
